@@ -1,2 +1,2 @@
 # Shangri-La - 理想郷 -
-[WebPage](rb.otos.red/Shangri-La)
+[WebPage](https://rb.otos.red/Shangri-La)
